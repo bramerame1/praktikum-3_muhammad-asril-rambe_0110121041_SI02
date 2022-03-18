@@ -1,0 +1,1 @@
+ata Kuliah :<br> Nilai UTS :<br> Nilai UAS :<br> Nilai Tugas :<br> Nilai Total :0<br> Grade :E<br> Predikat :sangat kurang<br> Status :Tidak Lulus
